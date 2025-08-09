@@ -51,17 +51,18 @@ To run all tests:
 ```bash
 mvn test
 
+---
 
 ## Features
-Policy Management – Create, update, and delete insurance policies
+   Policy Management – Create, update, and delete insurance policies
 
-Claims Processing – Submit claims and track approval/rejection
+   Claims Processing – Submit claims and track approval/rejection
 
-Coverage Tracking – Monitor policy coverage limits and expiry dates
+   Coverage Tracking – Monitor policy coverage limits and expiry dates
 
-Customer Records – Store and retrieve customer insurance details
+   Customer Records – Store and retrieve customer insurance details
 
-Data Validation – Verify inputs to ensure policy integrity
+   Data Validation – Verify inputs to ensure policy integrity
 
-Author
+## Author
 Haneen Aly
