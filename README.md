@@ -46,6 +46,8 @@ May 2025
   - Process claims
   - View policy summaries
 
+---
+
 ## Running Tests
 To run all tests:
 ```bash
